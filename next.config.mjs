@@ -9,9 +9,5 @@ const nextConfig = {
     ],
     dangerouslyAllowSVG: true,
   },
-  experimental: {
-    appDir: true,
-  },
 };
-
-export default nextConfig;
+export default nextConfig
