@@ -195,7 +195,7 @@ export default function MyZarfsPage() {
           <Inbox className="w-16 h-16 text-zinc-400 mb-4" />
           <h2 className="text-2xl font-bold text-zinc-800">Your Zarfs will appear here</h2>
           <p className="mt-2 text-zinc-500 max-w-sm">
-            Go to the "Create New" tab to make your first one!
+            Go to the &quot;Create New&quot; tab to make your first one!
           </p>
         </div>
       ) : (
