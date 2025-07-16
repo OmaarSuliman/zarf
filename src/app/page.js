@@ -63,7 +63,7 @@ export default function ZarfLandingPage() {
             <Image src="https://placehold.co/600x400/e0f2fe/0891b2?text=Thank+You+Note" alt="Thank You Note" className="w-full md:w-1/2 rounded-lg object-cover" width={600} height={400} />
              <div className="text-left">
                 <h3 className="text-2xl font-semibold">Show Your Gratitude</h3>
-                <p className="mt-2 text-zinc-600">A simple "thank you" can mean the world. Make it memorable with a personalized Zarf.</p>
+                <p className="mt-2 text-zinc-600">A simple &quot;thank you&quot; can mean the world. Make it memorable with a personalized Zarf.</p>
             </div>
         </div>
     ),
@@ -72,7 +72,7 @@ export default function ZarfLandingPage() {
             <Image src="https://placehold.co/600x400/f3e8ff/7e22ce?text=Just+Because" alt="A fun moment" className="w-full md:w-1/2 rounded-lg object-cover" width={600} height={400} />
              <div className="text-left">
                 <h3 className="text-2xl font-semibold">Share a Little Joy</h3>
-                <p className="mt-2 text-zinc-600">Sometimes the best reason is no reason at all. Send a funny memory, an inside joke, or a simple "thinking of you."</p>
+                <p className="mt-2 text-zinc-600">Sometimes the best reason is no reason at all. Send a funny memory, an inside joke, or a simple &quot;thinking of you.&quot;</p>
             </div>
         </div>
     )
@@ -144,7 +144,7 @@ export default function ZarfLandingPage() {
               <span className="text-blue-600">Sealed in a Zarf.</span>
             </h1>
             <p className="max-w-2xl mx-auto mt-6 text-lg md:text-xl text-zinc-600">
-              Craft beautiful, animated messages for the people you care about. Share a moment, a memory, or a simple thought in a way they'll never forget.
+              Craft beautiful, animated messages for the people you care about. Share a moment, a memory, or a simple thought in a way they&apos;ll never forget.
             </p>
             <div className="mt-10 flex flex-col sm:flex-row justify-center items-center gap-4">
               <NextLink href="/dashboard">
