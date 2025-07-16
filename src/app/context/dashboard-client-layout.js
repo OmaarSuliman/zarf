@@ -131,7 +131,7 @@ export default function DashboardClientLayout({ children }) {
               <span>My Dashboard</span>
             </h1>
             <p className="mt-1 text-zinc-500">
-              Welcome back, Abdelrahman! Let's create something special.
+              Welcome back, Abdelrahman! Let&apos;s create something special.
             </p>
           </div>
         </motion.header>
